@@ -107,6 +107,9 @@ class productControll {
             })
         }
     }
+
 }
+
+    
 
 export default productControll;

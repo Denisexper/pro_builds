@@ -18,7 +18,9 @@ app.listen(PORT, () => {
     console.log(`server is runing on port ${PORT}`)
 })
 
+//conexion con la base de datos
 connect()
+
 app.use('/api', productRoutes)
 app.use('/app', userRoutes)
 
