@@ -1,0 +1,4 @@
+funcionamiento de permisos de administrador:
+el permiso de administrador se lo pasamos por el token si el token es de un usuario que es solamente rol user
+no nos va deajar crear un producto. Pero si el usuario es admin si nos dejara crear el producto esto del rol va en el token
+cuando le pasamos el token ahi verifica que rol desempeña cada usuario.

@@ -1,0 +1,5 @@
+por el momento comentamos el authorization del productlist porque si usa el token en ese fetch 
+nos va pedir que seamos admin para poder ingresar al dashboard (productlist). asi que por el momento no lo ocupamos.
+
+la manera en que uso el token es la siguiente a la hora de hacer el login crea el token y para hacer el fetch
+de datos osea para ingresar al dashboard(productlist) nos lo requiere, esta es una forma comun y adecuada de usar el token.
